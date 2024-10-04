@@ -1,2 +1,4 @@
 # complex_systems_project
- Codes for the Complex Systems course project https://esami.unipi.it/esami2/programma.php?c=57780&aa=2023&docente=MANNELLA&insegnamento=&sd=0
+The project should be focused on a paper of Avellaneda and Lee (https://math.nyu.edu/~avellane/AvellanedaLeeStatArb071108.pdf) about Statistical Arbitrage.
+
+⚠️ This repository is a work in progress!
